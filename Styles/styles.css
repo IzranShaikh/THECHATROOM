@@ -1,0 +1,61 @@
+/*Footer Styling*/
+#copyright
+{
+    padding-top: 52px;
+    padding-bottom: 52px;
+}
+.color_section,[class*="_section"].color_section
+{
+    background-color: rebeccapurple;
+    color: #ffffff;
+    font-family: Comic Sans MS;
+    font-size: 100%;
+}
+
+b.title
+{
+    color: crimson;
+    font-size: 150%;
+}
+
+div.chatroomtitle
+{
+    background: #17a2b8;
+    color: ghostwhite;
+}
+
+.titletext
+{
+    line-height: 3;
+}
+
+div.chatroom
+{
+    border: 1px solid #17a2b8;
+    border-width: medium;
+    height: fixed;
+}
+
+div.chatroominput
+{
+    background: buttonface;
+}
+
+div.chatbox
+{
+    width: inherit;
+}
+
+div.msgbox
+{
+    width: auto;
+    border-radius: 20px;
+    display: inline-block;
+    border: 1px solid black;
+}
+
+span.juicymsg
+{
+    font-size: 130%;
+    font-family: Comic Sans MS;
+}
